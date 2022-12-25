@@ -1,6 +1,10 @@
 # LAPORAN-TUGAS-BESAR-ORGANISASI-DAN-ARSITEKTUR-KOMPUTER-PENGGARIS-DIGITAL-ARDUINO
 Teknik Informatika Kelas C
 <div align='center'>
+ 
+![Teams](https://img.shields.io/badge/Anggota%20Kelompok-Kelompok%207-purple)
+ 
+<br>
 
 LAPORAN TUGAS BESAR
 ORGANISASI DAN ARSITEKTUR KOMPUTER
