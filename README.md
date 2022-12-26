@@ -49,7 +49,6 @@ Rangkaian
 
 
 ## Source Code
-Install terlebih dahulu Arduino IDE-nya, lalu buka aplikasinya, untuk codingan dari rangkaian ini adalah sebagai berikut.
 <p align="justify">Install terlebih dahulu Arduino IDE-nya, lalu buka aplikasinya, untuk codingan dari rangkaian ini adalah sebagai berikut.</p>
 
 ```C++
