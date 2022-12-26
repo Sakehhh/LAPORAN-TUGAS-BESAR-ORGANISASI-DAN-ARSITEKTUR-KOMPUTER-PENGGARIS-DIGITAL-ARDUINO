@@ -48,8 +48,11 @@ Rangkaian
 6.	(+)BREADBOARD --> 5V ARDUINO // (-)BREADBOARD --> GND ARDUINO
 
 
-Source Code
+## Source Code
 Install terlebih dahulu Arduino IDE-nya, lalu buka aplikasinya, untuk codingan dari rangkaian ini adalah sebagai berikut.
+<p align="justify">Install terlebih dahulu Arduino IDE-nya, lalu buka aplikasinya, untuk codingan dari rangkaian ini adalah sebagai berikut.</p>
+
+```C++
 
 #include <HCSR04.h>                 //Library HCSR04
 #include <LiquidCrystal_I2C.h>      //Library LCD I2C
@@ -80,8 +83,9 @@ void loop() {
   delay(1500);
   lcd.clear(); 
 }
+```
 
-Output
+## Output
 Output dari rangkaian di atas adalah ketika kita menaruh benda misal 30cm dari sensor maka sensor akan mendeteksi dan mengeluarkan bunyi (buzzer) bahwa penggaris digital ini bekerja, nanti di layar LCD akan ada output “DIGITAL RULER” “Jarak: 30cm”. Kadang jarak yang dihitung ini tidak seakurat di hitung manual pakai penggaris.
  
 ## Referensi
