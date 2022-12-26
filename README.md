@@ -2,7 +2,7 @@
 ## ANGGOTA KELOMPOK
 <div align='center'>
  
-![Teams](https://img.shields.io/badge/Anggota%20Kelompok-Kelompok%207-purple)
+![Teams](https://img.shields.io/badge/Anggota%20Kelompok-Kelompok%205-purple)
  
 <br>
  
