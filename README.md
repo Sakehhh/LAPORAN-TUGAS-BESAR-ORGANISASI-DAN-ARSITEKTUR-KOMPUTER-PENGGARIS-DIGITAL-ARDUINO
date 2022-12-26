@@ -19,7 +19,7 @@
 
 </div>
 
-##Deskripsi Umum
+## Deskripsi Umum
 <p align="justify">
 Penggaris Digital adalah perangkat yang dapat digunakan untuk mengukur jarak menggunakan sensor. Ada beberapa cara untuk mengimplementasikan Sensor jarak tetapi modul yang digunakan dalam proyek ini adalah Sensor HC-S04. Dengan menghubungkan Sensor HC-S04 dengan Arduino, Anda bisa mengukur jarak menggunakan sensor tanpa mengukur manual.
 </p>
