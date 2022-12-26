@@ -15,16 +15,22 @@
  
 <br> 
  
-Jurusan Teknik Informatika UIN Sunan Gunung Djati Bandung
+[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
-Deskripsi Umum
+</div>
+
+##Deskripsi Umum
+<p align="justify">
 Penggaris Digital adalah perangkat yang dapat digunakan untuk mengukur jarak menggunakan sensor. Ada beberapa cara untuk mengimplementasikan Sensor jarak tetapi modul yang digunakan dalam proyek ini adalah Sensor HC-S04. Dengan menghubungkan Sensor HC-S04 dengan Arduino, Anda bisa mengukur jarak menggunakan sensor tanpa mengukur manual.
+</p>
+<p align="justify">
 
-Sensor ultrasonic dengan tipe HCSR04 adalah suatu komponen yang dapat diaplikasikan sebagai pengukuran jarak daru suatu benda. Taksiran dari jarak yang dapat ditempuk oleh komponen ini adalah 2 – 450 cm. Komponin ini memiliki dua pin digital yang berfungsi untuk menghubungkan jarak yang telah terbaca. Cara kerja atau prinsip kerja yang dilakukan oleh sensor ultrasonic ini yaitu dengan mengirimkan pulsa ultrasonic sebesar 40 kHz, selanjutnya pulsa echo akan dipantulkan kembali, serta menghitung waktu yang didapatkan dengan satuan microsecond. 
+Sensor ultrasonic dengan tipe HCSR04 adalah suatu komponen yang dapat diaplikasikan sebagai pengukuran jarak daru suatu benda. Taksiran dari jarak yang dapat ditempuk oleh komponen ini adalah 2 – 450 cm. Komponin ini memiliki dua pin digital yang berfungsi untuk menghubungkan jarak yang telah terbaca. Cara kerja atau prinsip kerja yang dilakukan oleh sensor ultrasonic ini yaitu dengan mengirimkan pulsa ultrasonic sebesar 40 kHz, selanjutnya pulsa echo akan dipantulkan kembali, serta menghitung waktu yang didapatkan dengan satuan microsecond.
+</p>
 
 
-Alat dan Bahan
-NO	NAMA ALAT DAN BAHAN	JUMLAH 
+### Alat dan Bahan
+- <p align="justify"> NO	NAMA ALAT DAN BAHAN	JUMLAH 
 1	Laptop/pc ( Arduino IDE)	1
 2	HC-S04 Ultrasonic distance measuring transducer sensor module 	1
 3	Breadboard minisolderless 400 400 p	1
@@ -77,9 +83,8 @@ void loop() {
 
 Output
 Output dari rangkaian di atas adalah ketika kita menaruh benda misal 30cm dari sensor maka sensor akan mendeteksi dan mengeluarkan bunyi (buzzer) bahwa penggaris digital ini bekerja, nanti di layar LCD akan ada output “DIGITAL RULER” “Jarak: 30cm”. Kadang jarak yang dihitung ini tidak seakurat di hitung manual pakai penggaris.
-
-
-Referensi
+ 
+## Referensi
 Nugraha, Fandhi (2015). Tugas Sensor Ultrasonik HC-SR04.
 
 Sakti,Elang. Cara Kerja Sensor Ultrasonik, Rangkaian, & Aplikasinya, dari https://www.elangsakti.com/2015/05/sensor-ultrasonik.html
