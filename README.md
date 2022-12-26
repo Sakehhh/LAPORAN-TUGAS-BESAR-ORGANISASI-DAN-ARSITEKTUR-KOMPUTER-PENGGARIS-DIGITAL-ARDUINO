@@ -1,10 +1,19 @@
-# LAPORAN-TUGAS-BESAR-ORGANISASI-DAN-ARSITEKTUR-KOMPUTER-PENGGARIS-DIGITAL-ARDUINO
-Teknik Informatika Kelas C
+# UJIAN AKHIR SEMESTER
+## ANGGOTA KELOMPOK
 <div align='center'>
  
 ![Teams](https://img.shields.io/badge/Anggota%20Kelompok-Kelompok%207-purple)
  
 <br>
+ 
+![1197050051](https://img.shields.io/badge/122-Rifky%20Zaini%20Faroj-blue)
+![1197050049](https://img.shields.io/badge/123-Rifqi%20Syekhi%20Marsaputra-blue)
+![1197050085](https://img.shields.io/badge/130-Salma%20Khoirunnisa-blue)
+![1197050119](https://img.shields.io/badge/137-Sumitra%20Adriansyah-blue)
+![1197050079](https://img.shields.io/badge/144-Youmil%20Akbar-blue)
+![1197050079](https://img.shields.io/badge/147-Yuqa%20Sakif%20Ardiansyah-blue)
+ 
+<br> 
 
 LAPORAN TUGAS BESAR
 ORGANISASI DAN ARSITEKTUR KOMPUTER
