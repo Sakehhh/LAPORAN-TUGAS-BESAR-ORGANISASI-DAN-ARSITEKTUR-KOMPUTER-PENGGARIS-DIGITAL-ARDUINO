@@ -14,18 +14,6 @@
 ![1197050079](https://img.shields.io/badge/147-Yuqa%20Sakif%20Ardiansyah-blue)
  
 <br> 
-
-LAPORAN TUGAS BESAR
-ORGANISASI DAN ARSITEKTUR KOMPUTER
-PENGGARIS DIGITAL ARDUINO
-Oleh Kelompok 5:
-Rifky Zaini Faroj			(1217050122)
-Rifqi Syekhi Marsaputra		(1217050123)
-Salma Khoirunnisa			(1217050130)
-Sumitra Adriansyah			(1217050137)
-Youmil Akbar				(1217050144)
-Yuqa Sakif Ardiansyah		(1217050147)
-
  
 Jurusan Teknik Informatika UIN Sunan Gunung Djati Bandung
 
